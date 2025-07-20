@@ -43,3 +43,12 @@ Web Development · GUI Application Design · Full Stack Development · AR/VR App
 
 I'm actively seeking internship opportunities and would love to collaborate on exciting projects, hackathons, or open-source initiatives.  
 **Let’s build something amazing together!**
+
+---
+
+![College](https://img.shields.io/badge/College-SASTRA%20University-blueviolet?style=flat&logo=graduation-cap)
+![Location](https://img.shields.io/badge/Location-Thanjavur-orange?style=flat&logo=googlemaps)
+[![Email](https://img.shields.io/badge/Email-arunjagan@gmail.com-red?style=flat&logo=gmail)](mailto:arunjagan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--j-blue?style=flat&logo=linkedin)](https://linkedin.com/in/-arun-j/)
+
+
