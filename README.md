@@ -45,3 +45,7 @@ I'm actively seeking internship opportunities and would love to collaborate on e
 **Let’s build something amazing together!**
 
 ---
+
+## 📊 Page Stats
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArunJ2.ArunJ2&title=Total%20Views&style=flat&color=blue)
