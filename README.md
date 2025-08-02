@@ -44,8 +44,3 @@ Web Development · GUI Application Design · Full Stack Development · AR/VR App
 I'm actively seeking internship opportunities and would love to collaborate on exciting projects, hackathons, or open-source initiatives.  
 **Let’s build something amazing together!**
 
----
-
-## 📊 Page Stats
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArunJ2.ArunJ2&title=Total%20Views&style=flat&color=blue)
